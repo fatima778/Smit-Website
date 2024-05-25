@@ -83,8 +83,9 @@ ul>li {
     padding: 10px;
 }
 
-.robo{
-    margin-left: 850px;
-    margin-top: -350px;
-    /* margin-right: -100px; */
+.container-lg{
+    display: flex !important;
+}
+.img{
+    margin-top: -30px;
 }
